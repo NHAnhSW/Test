@@ -1,0 +1,22 @@
+
+gearvn
+GIGABYTE B560M DS3H V2 (rev. 1.0) - 2tr7
+Intel Core i5 11600K -- 7tr
+2 Ram Kingston Fury 1x8GB 3200 Beast 1tr9
+SSD PNY CS1031 M.2 2280 256GB Gen 3x4 900k
+Nguồn CoolerMaster MWE 650 BRONZE - V2 230V 1tr6
+VGA Asus GTX 1650 4G GDDR6 TUF Gaming OC Edition 7tr4
+
+
+
+tinhocngoisao
+GIGABYTE B560M DS3H V2 (rev. 1.0) - 2tr4
+Intel Core i5 11600K -- 6tr1
+2 Ram Kingston Fury 1x8GB 3200 Beast 1tr8(Or Ram DDR4 Kingston 16G/3200 Fury Beast 1tr7)
+SSD PNY CS1031 M.2 2280 256GB Gen 3x4 820k
+Nguồn CoolerMaster MWE 650 BRONZE - V2 230V 1tr4
+VGA Asus GTX 1650 4G GDDR6 TUF Gaming OC Edition 7tr
+
+
+
+
