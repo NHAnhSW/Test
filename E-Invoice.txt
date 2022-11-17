@@ -1,0 +1,265 @@
+<Invoices>
+  <Inv>
+    <key>OD2204000019</key>
+    <Invoice>
+      <CusCode>JOLY MART AR</CusCode>
+      <CusName>Công Ty TNHH Joly</CusName>
+      <Buyer />
+      <CusAddress> 31 Yên Bái, Phường Hải Châu 1, Quận Hải Châu, TP. Đà Nẵng, Việt Nam </CusAddress>
+      <CusTaxCode>0401831918</CusTaxCode>
+      <CusBankNo />
+      <CusBankName />
+      <PaymentMethod>Thanh toán tiền mặt hoặc chuyển khoản</PaymentMethod>
+      <CurrencyUnit>VND</CurrencyUnit>
+      <EmailDeliver />
+      <GrossValue_NonTax>0</GrossValue_NonTax>
+      <GrossValue>0</GrossValue>
+      <GrossValue0>0</GrossValue0>
+      <VatAmount0>0</VatAmount0>
+      <GrossValue5>0</GrossValue5>
+      <VatAmount5>0</VatAmount5>
+      <GrossValue8>36639410</GrossValue8>
+      <VatAmount8>8</VatAmount8>
+      <GrossValue10>0</GrossValue10>
+      <VatAmount10>0</VatAmount10>
+      <Total>36639410</Total>
+      <VATRate>8</VATRate>
+      <VATAmount>2931153</VATAmount>
+      <Amount>39570563</Amount>
+      <AmountInWords>Ba Mươi Chín Triệu Năm Trăm Bảy Mươi Nghìn Năm Trăm Sáu Mươi Ba  Đồng</AmountInWords>
+      <Products>
+        <Product>
+          <ProdName>KHĂN LÔNG ANTI NEW COLOR MUJI 40</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>80.000000</ProdQuantity>
+          <ProdPrice>52632.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>4210560.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>4210560.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG SH HIVE FACE 34 L.BEIGE</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>10.000000</ProdQuantity>
+          <ProdPrice>22330.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>223300.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>223300.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG SH HIVE FACE 34 L.PINK</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>10.000000</ProdQuantity>
+          <ProdPrice>22330.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>223300.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>223300.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG ARROW BATH70</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>20.000000</ProdQuantity>
+          <ProdPrice>146611.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>2932220.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>2932220.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG ARROW FACE40</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>40.000000</ProdQuantity>
+          <ProdPrice>49520.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1980800.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1980800.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG ARROW HAND30</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>80.000000</ProdQuantity>
+          <ProdPrice>23299.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1863920.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1863920.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG CIRCLE BATH68 BLUE</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>5.000000</ProdQuantity>
+          <ProdPrice>178002.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>890010.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>890010.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG CIRCLE BATH68 IVORY</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>5.000000</ProdQuantity>
+          <ProdPrice>178002.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>890010.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>890010.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG CIRCLE BATH68 PURPLE</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>5.000000</ProdQuantity>
+          <ProdPrice>178002.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>890010.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>890010.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG CIRCLE BATH68 Y.GREEN</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>5.000000</ProdQuantity>
+          <ProdPrice>178002.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>890010.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>890010.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG CIRCLE FACE40</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>30.000000</ProdQuantity>
+          <ProdPrice>59206.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1776180.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1776180.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG CIRCLE HAND30</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>80.000000</ProdQuantity>
+          <ProdPrice>22202.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1776160.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1776160.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG LATTICE BATH70</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>15.000000</ProdQuantity>
+          <ProdPrice>182340.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>2735100.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>2735100.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG LATTICE FACE40</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>60.000000</ProdQuantity>
+          <ProdPrice>62014.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>3720840.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>3720840.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG LATTICE HAND30</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>90.000000</ProdQuantity>
+          <ProdPrice>24499.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>2204910.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>2204910.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG ORGANIC FACE40</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>30.000000</ProdQuantity>
+          <ProdPrice>50738.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1522140.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1522140.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG ORGANIC HAND30</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>50.000000</ProdQuantity>
+          <ProdPrice>20295.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1014750.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1014750.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG ORGANIC MINI BATH50</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>30.000000</ProdQuantity>
+          <ProdPrice>77662.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>2329860.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>2329860.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG PLATINUM BATH70</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>15.000000</ProdQuantity>
+          <ProdPrice>122100.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1831500.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1831500.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG PLATINUM HAND34</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>80.000000</ProdQuantity>
+          <ProdPrice>15400.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1232000.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1232000.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+        <Product>
+          <ProdName>KHĂN LÔNG TG TAKE FACE40</ProdName>
+          <ProdUnit>Cái</ProdUnit>
+          <ProdQuantity>30.000000</ProdQuantity>
+          <ProdPrice>50061.000000</ProdPrice>
+          <VATRate>0</VATRate>
+          <Total>1501830.0000000000</Total>
+          <VATAmount>0</VATAmount>
+          <Amount>1501830.0000000000</Amount>
+          <IsSum>0</IsSum>
+        </Product>
+      </Products>
+    </Invoice>
+  </Inv>
+</Invoices>
